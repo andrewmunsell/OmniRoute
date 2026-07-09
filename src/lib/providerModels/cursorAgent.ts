@@ -71,6 +71,7 @@ const SEGMENT_OVERRIDES: Record<string, string> = {
   composer: "Composer",
   opus: "Opus",
   sonnet: "Sonnet",
+  fable: "Fable",
   haiku: "Haiku",
   codex: "Codex",
   mini: "Mini",
